@@ -12,3 +12,5 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 ## Here ir a new update by jstenjog
 
+## Here is another update by <your GitHub username>
+
